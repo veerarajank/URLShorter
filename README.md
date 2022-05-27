@@ -21,3 +21,6 @@ Visiting an encoded URL should redirect to the original one.
 # Frontend
 Implement pages/components as required to consume the above three endpoints, and add any additional endpoints to complete the UI (listing encoded/decoded urls for example).
 
+# Demo
+https://youtu.be/KY34kuj3Iws
+
